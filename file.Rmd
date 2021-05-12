@@ -2,12 +2,11 @@
 title: "Week 10 Tutorial"
 author: "Tina Tsou"
 date: "`r Sys.Date()`"
-output:
-  bookdown::html_document2:
+output: 
+  bookdown::html_document2
 ---
 
 ```{r libraries, message= FALSE}
 library(dplyr)
 library(ggplot2)
 ```
-
